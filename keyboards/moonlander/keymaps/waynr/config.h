@@ -3,5 +3,5 @@
   See config.h options at https://docs.qmk.fm/#/config_options?id=the-configh-file
 */
 #define ORYX_CONFIGURATOR
-#define FIRMWARE_VERSION u8"3yob7/DNQyZ"
+#define FIRMWARE_VERSION u8"q90K3/x6pxL"
 #define RGB_MATRIX_STARTUP_SPD 60
